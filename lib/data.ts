@@ -195,20 +195,20 @@ export const experience = [
   {
     org: "KGS",
     role: "Web Developer — Internship",
-    period: "PLACEHOLDER dates",
+    period: "2023",
     detail: "Web development internship.",
   },
   {
     org: "Tunisian Programming Lovers",
     role: "Computer Science Trainer",
-    period: "PLACEHOLDER dates",
+    period: "2021-2023",
     detail: "Delivered computer science training sessions.",
   },
   {
     org: "Association des Jeunes Créateurs",
     role: "Volunteer",
-    period: "PLACEHOLDER dates",
-    detail: "Community volunteering with young creators.",
+    period: "2017-2020",
+    detail: "Association Tunisienne des Médias Alternatifs.",
   },
 ];
 
