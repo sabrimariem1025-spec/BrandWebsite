@@ -8,7 +8,6 @@ export const profile = {
   country: "Tunisia",
  titles: [
   "Digital Skills Trainer",
-  "ICT Trainer",
   "Artificial Intelligence Trainer",
   "Web Development Trainer",
   "Full-Stack JavaScript Developer",

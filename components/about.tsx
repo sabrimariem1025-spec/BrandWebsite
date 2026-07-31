@@ -16,20 +16,31 @@ export function About() {
           <Reveal delay={0.05}>
             <div className="space-y-5 text-slate dark:text-paper/70 leading-relaxed">
               <p>
-                Mariem Sabri is a Tunisia-based Full-Stack Developer and
-                technology trainer whose work sits at the intersection of
-                software engineering and education. Her mission is
-                straightforward: {profile.mission.toLowerCase()}
+              Mariem Sabri is a Tunisia-based Full-Stack Developer,
+              Digital Skills Trainer, and technology educator with a
+              strong background in software engineering, digital innovation,
+              and learner-centered training.
               </p>
               <p>
-                Her teaching philosophy favors doing over listening — every
-                training track is built around a project-based method so
-                that learners, regardless of age or starting point, leave
-                with something they built themselves.
+              Combining technical expertise with a passion for education,
+              she designs and delivers practical, inclusive,
+              and engaging learning experiences for children, youth, women,
+              and adults. Her approach focuses on transforming digital knowledge
+              into real-world skills through hands-on activities, interactive learning,
+              and project-based training.
               </p>
               <p>
-                I believe technology should be accessible to everyone, regardless of age or background. Every learner deserves the confidence to understand and use digital tools in meaningful ways,,
-                learner-first approach to an international stage. {profile.objective}
+                Beyond teaching technology, Mariem is committed to helping learners build confidence,
+                creativity, autonomy, and the practical skills needed to thrive in an increasingly digital world.
+                She believes that digital education and artificial intelligence should be accessible, practical,
+                inclusive, and adapted to the needs of every learner.
+              </p>
+                <p>
+                With experience in both software development and digital training, 
+                Mariem aims to expand her expertise and impact in the fields of digital skills
+                and artificial intelligence education.
+                Her long-term ambition is to become an internationally recognized Digital Skills and AI Trainer,
+                empowering diverse audiences to use technology creatively, confidently, and responsibly.
               </p>
             </div>
           </Reveal>

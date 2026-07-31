@@ -33,7 +33,6 @@ export const metadata: Metadata = {
     "Mariem Sabri",
     "Digital Skills Trainer",
     "AI Trainer",
-    "ICT Trainer",
     "Full-Stack Developer",
     "Technology Educator",
     "Tunisia",
